@@ -27,6 +27,7 @@
 4. Then, run **npm run start** to start the server
 5. After you run the server, open localhost:8000 then check on your page if there any **recaptcha verified** badge on the bottom-left of your screen. If there any error, please check your **recaptcha console**
 6. Click the button then check your console to see your token
+7. For further info, check https://developers.google.com/recaptcha/docs/v3
 
 
 ----------
