@@ -8,6 +8,7 @@
 
 
 ##### INSTALL AND USE
+**Dont forget to clone first !**
 
 1. Add RECAPTCHA_site_key to :
    - public/index.js on **const SITE_KEY**, example : 
